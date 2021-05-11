@@ -1,0 +1,10 @@
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\bin\Debug\PreferredCustomerPrgm.exe.config
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\bin\Debug\PreferredCustomerPrgm.exe
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\bin\Debug\PreferredCustomerPrgm.pdb
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\obj\Debug\PreferredCustomerPrgm.csprojAssemblyReference.cache
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\obj\Debug\PreferredCustomerPrgm.Form1.resources
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\obj\Debug\PreferredCustomerPrgm.Properties.Resources.resources
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\obj\Debug\PreferredCustomerPrgm.csproj.GenerateResource.cache
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\obj\Debug\PreferredCustomerPrgm.csproj.CoreCompileInputs.cache
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\obj\Debug\PreferredCustomerPrgm.exe
+C:\Users\Apex1\source\C#\PreferredCustomerPrgm\PreferredCustomerPrgm\obj\Debug\PreferredCustomerPrgm.pdb
